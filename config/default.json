@@ -1,0 +1,6 @@
+{
+  "serverPort" : 5000,
+  "databaseUrl": "mongodb+srv://Alexez:DoubleFly@cloud.hcaz3a5.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "secret-key",
+  "filePath": "D:\\cloud_disk\\files"
+}
